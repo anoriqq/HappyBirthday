@@ -3,4 +3,4 @@
 
 完全に理解した
 
-![image](https://user-images.githubusercontent.com/33250012/124305040-83a76200-db9f-11eb-8c6a-62f191060d45.png)
+![Screenshot_1625243913](https://user-images.githubusercontent.com/33250012/124305864-9f5f3800-dba0-11eb-8ce4-27f4834e6d1a.png)
